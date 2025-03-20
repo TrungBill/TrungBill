@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bill Nguyen</h1>
+<h1 align="center">Hi, I'm Bill Nguyen</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm an undergraduate Computer Science student at Monash University with a passion for front-end development. I specialize in crafting responsive, user-friendly web applications and building custom portfolios that address real-world challenges. With valuable freelance experience under my belt, I thrive on turning creative ideas into practical digital solutions. Here, you'll find projects that blend clean code with innovative design, reflecting my commitment to continuous learning and impactful web development. Feel free to explore my work and connect with me for collaboration or new opportunities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungbill&label=Profile%20views&color=0e75b6&style=flat" alt="trungbill" /> </p>
