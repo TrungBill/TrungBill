@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungbill&label=Profile%20views&color=0e75b6&style=flat" alt="trungbill" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trungbill" alt="trungbill" /></a> </p>
-
-- 🔭 I’m currently working on [Football Scores Monitor Chrome Extension](https://github.com/TrungBill/Football-team-result-tracker-chrome-extension) and Landing Page for a startup Loyalmate
+- 🔭 I’m currently working on Loyalmate: https://loyalmate.app/
 
 - 👨‍💻 All of my projects are available at [https://billnguyen.netlify.app/](https://billnguyen.netlify.app/)
 
